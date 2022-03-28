@@ -7,7 +7,7 @@ data=[99,1,10,6,88,60]
 
 """
 number=[]
-LL=[]
+
 data=[99,1,10,6,88,60]
 for i in range(6):
     Count=0
@@ -28,7 +28,7 @@ for i in range(6):
         continue
 else:
     number.append(data[1])
-
+print(number)
            
       
            
